@@ -1,0 +1,24 @@
+# Site settings
+title: RedELA Investigación
+email: coordinela@gmail.com
+url: http://redela.org
+description: "RedELA es una organización para conseguir fondos para la investigación de la Esclerosis Lateral Amiotrófica. Creada e impulsada por afectados de ELA y sus familiares y amigos."
+
+# Color settings (hex-codes without the leading hash-tag) 
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: RedELA Investigación Julio
+
+# Social networks usernames (many more available: github, google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: https://twitter.com/SBootstrap
+#   - title: facebook
+#     url:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
