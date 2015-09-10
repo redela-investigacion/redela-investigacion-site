@@ -6,18 +6,17 @@ description: "RedELA es una organización para conseguir fondos para la investig
 
 # Color settings (hex-codes without the leading hash-tag) 
 color:
-  primary-dark: '#000000'
-  links: '#219ab3'
+  primary-dark: '#333333' #'#000000'
+  links: '#0073ff' # '#219ab3'
 
 # Footer settings
 footer: RedELA Investigación Julio
-
-# Social networks usernames (many more available: github, google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-# social:
-#   - title: twitter
-#     url: https://twitter.com/SBootstrap
-#   - title: facebook
-#     url:
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/afectadosela
+  - title: facebook
+    url: https://www.facebook.com/plataformaafectadosela
 
 # Build settings
 markdown: kramdown
