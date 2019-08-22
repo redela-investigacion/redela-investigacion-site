@@ -13,7 +13,7 @@ Tras esto y con el apoyo de la [plataforma de afectados de ELA](http://plataform
 
 Si deseas colaborar en el mantenimiento de esta web, haz un fork del proyecto, Pull Request y listo.
 
-Si tienes alguna sugerencia de mejora, [abre un Issue aquí](https://github.com/redela-investigacion/redela-investigacion.github.io/issues).
+Si tienes alguna sugerencia de mejora, [abre un Issue aquí](https://github.com/redela-investigacion/redela-investigacion-site/issues).
 
 También puedes difundir la existencia de este proyecto.
 
