@@ -17,7 +17,7 @@ html {
     height: 100%;
 }
 
-h1, 
+h1,
 h2,
 h3,
 h4,
@@ -56,7 +56,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #11505d;
+    color: #BFEBF8;
 }
 
 .light {
@@ -216,7 +216,7 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -233,7 +233,7 @@ a:focus {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
