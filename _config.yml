@@ -13,8 +13,6 @@ color:
 footer: RedELA Investigación
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: email
-    url: mailto:coordinela@gmail.com?Subject=Contribuir%20con%20RedELA
   - title: twitter
     url: https://twitter.com/afectadosela
   - title: facebook
