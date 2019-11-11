@@ -7,7 +7,7 @@ description: "RedELA es una organización para conseguir fondos para la investig
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#333333' #'#000000'
-  links: '#BAE6F3' # '#219ab3'
+  links: '#73D4E7' # '#219ab3' '#BAE6F3 (contrast)'
 
 # Footer settings
 footer: RedELA Investigación
