@@ -1,7 +1,11 @@
 REDELA Investigación
 ====================
 
-Web de redela.org, para conseguir fondos para la investigación de la Esclerosis Lateral Amiotrófica. (En adelante, ELA).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/66352863-65f9-4649-9258-088b6ac67127/deploy-status)](https://app.netlify.com/sites/redela-investigacion/deploys)
+
+
+Web de https://redela.org/, para conseguir fondos para la investigación de la Esclerosis Lateral Amiotrófica. (En adelante, ELA).
 
 RedELA es una organización sin ánimo de lucro creada e impulsada por afectados de ELA y sus familiares y amigos.  
 
@@ -19,6 +23,4 @@ También puedes difundir la existencia de este proyecto.
 
 ## Theme 
 
-we're using [Jekyll Grayscale Theme](https://github.com/redela-investigacion/grayscale-theme)
-
-:)
+Estamos usando el [Jekyll Grayscale Theme](https://github.com/redela-investigacion/grayscale-theme) :)
