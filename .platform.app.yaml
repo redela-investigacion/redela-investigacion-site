@@ -1,0 +1,27 @@
+# .platform.app.yaml
+
+# The name of this application, which must be unique within a project.
+name: 'jekyll'
+
+# The type key specifies the language and version for your application.
+type: 'ruby:2.5'
+
+# The hooks that will be triggered when the package is deployed.
+hooks:
+    # Build hooks can modify the application files on disk, but not access any services like databases.
+    build: |
+        bundle install
+        bundle exec jekyll build
+
+# The size of the persistent disk of the application (in MB).
+disk: 5120
+
+# The configuration of the application when it's exposed to the web.
+web:
+    locations:
+        '/':
+            # The public directory of the application relative to its root.
+            root: '_site'
+            index: ['index.html']
+            scripts: false
+            allow: true
